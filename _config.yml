@@ -174,7 +174,7 @@ kramdown:
 
 # Collections
 collections:
-  Projects:
+  publications:
     output: true
     permalink: /:collection/:path/
   Blog:
@@ -206,7 +206,7 @@ defaults:
   # _projects
   - scope:
       path: ""
-      type: projects
+      type: publications
     values:
       layout: single
       author_profile: true

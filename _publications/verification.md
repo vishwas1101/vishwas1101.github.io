@@ -1,7 +1,7 @@
 ---
 title: "Verification of Network-On-Chip Systems"
-collection: projects
-permalink: /projects/verification
+collection: publications
+permalink: /publications/verification
 excerpt: 'Functional verification using feedback guided test generation'
 date: Jan - May 2022
 venue: 'BITS Pilani'

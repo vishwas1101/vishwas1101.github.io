@@ -1,8 +1,8 @@
 ---
-title: ""
-collection: projects
-permalink: /projects/AxONAL
-excerpt: 'Hardware Accelerators for NLP applications'
+title: "Hardware Accelerators for NLP applications"
+collection: publications
+permalink: /publications/AxONAL
+excerpt: 
 date: 'June - Dec 2022'
 venue: 'CFAED TU Dresden'
 ---
