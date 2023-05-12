@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! Welcome to my webpage! I'm currently employed as a Software Development Engineer at Advanced Micro Devices, Inc. (AMD), where I work with the Performance Modeling and Architecture Framework team. My work involves performance estimation and analysis of modern workloads on Xilinx devices. I also conduct experiments and compare various internal tools and frameworks with production-grade software.
+Hi! Welcome to my webpage! I'm currently employed as a **Software Development Engineer** at **Advanced Micro Devices, Inc. (AMD)**, where I work with the Performance Modeling and Architecture Framework team. My work involves performance estimation and analysis of modern workloads on Xilinx devices. I also conduct experiments and compare various internal tools and frameworks with production-grade software.
 
 My main interests revolve around computer architecture and systems. Ultimately, I aspire to specialize in CPU and heterogeneous device architecture. I'm also intrigued by hardware security and actively seek opportunities that bring me closer to achieving these goals.
 
