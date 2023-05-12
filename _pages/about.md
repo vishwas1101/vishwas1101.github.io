@@ -1,13 +1,22 @@
 ---
 permalink: /
-title: "This is about me hi"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Hi welcome to my webpage
+
+Hi! Welcome to my webpage! I'm currently employed as a Software Development Engineer at Advanced Micro Devices, Inc. (AMD), where I work with the Performance Modeling and Architecture Framework team. My work involves performance estimation and analysis of modern workloads on Xilinx devices. I also conduct experiments and compare various internal tools and frameworks with production-grade software.
+
+My main interests revolve around computer architecture and systems. Ultimately, I aspire to specialize in CPU and heterogeneous device architecture. I'm also intrigued by hardware security and actively seek opportunities that bring me closer to achieving these goals.
+
+I recently graduated from BITS Pilani, Hyderabad Campus, with a degree in Electrical and Electronics Engineering. During my undergraduate studies, I delved into robotics, control systems, and computer architecture. For my bachelor's thesis, I had the privilege of working at the [CFAED, TU Dresden](https://cfaed.tu-dresden.de/pd-about) under the guidance of [Prof. Akash Kumar](https://cfaed.tu-dresden.de/pd-staff-kumar) and [Dr. Salim Ullah](https://cfaed.tu-dresden.de/pd-staff-salim). My research there focused on *Hardware Accelerators for Natural Language Processing* tasks. This experience provided me with a multitude of technical and life skills, and I'm forever grateful to my mentors for their guidance. In my senior year, I collaborated on projects related to *Network-on-Chip systems* with [Prof. Soumya J](https://universe.bits-pilani.ac.in/Hyderabad/soumyaj/Profile). Prior to that, I worked on *Kalman filter applications in Microgrids* under the guidance of [Prof. Alivelu M Parimi](https://universe.bits-pilani.ac.in/hyderabad/alivelu/profile). Additionally, I actively pursued side projects involving robotics, Hyperloop technology, and computer architecture.
+
+Beyond the academic and corporate spheres, I enjoy playing a variety of sports, particularly challenging myself in various racquet sports. Previously, I represented Karnataka state as a National level table tennis player for three consecutive years and served as the Table Tennis Captain at my university. Cooking is another passion of mine, and I love preparing homely and simple dishes. I plan to share these recipes through blogging, with the hope of helping bachelors learn the art of cooking affordable, easy, and healthy meals.
+
+Please don't hesitate to reach out to me on any of the platforms mentioned above. I would be delighted to chat with you! :)
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
