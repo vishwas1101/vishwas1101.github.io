@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/convolution
 excerpt: 'Parallel execution of convolution algorithm to test a RISC-V based NoC'
 date: Sep 2021 - Jan 2022
-venue:
+venue: BITS Pilani
 ---
 
 **Abstract:**

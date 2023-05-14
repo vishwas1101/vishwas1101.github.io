@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/misc
 excerpt: Other random projects that I did during my undergrad. 
 date: May 2020 - Present 
-venue:
+venue: somewhere-on-earth
 ---
 
 **Abstract:**

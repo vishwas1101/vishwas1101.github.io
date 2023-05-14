@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/hyperloop
 excerpt: Electrical and Electronics Subsystem Lead
 date: Oct 2020 - Jun 2022
-venue:
+venue: BITS Pilani
 ---
 
 **Abstract:**

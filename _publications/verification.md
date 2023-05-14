@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/verification
 excerpt: 'Functional verification of Network-on-Chip systems using a feedback guided test generation approach'
 date: Jan - May 2022
-venue:
+venue: BITS Pilani
 ---
 
 **Abstract:**
