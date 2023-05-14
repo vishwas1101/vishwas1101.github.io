@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Vishwas Gautam"
-  avatar           : "profile.png"
+  avatar           : "profile2.png"
   bio              : "An enthusiastic electronics engineer with a deep passion for computer architecture"
   location         :  
   employer         : 
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/vishwas1101"
+  gitub           : "vishwas1101"
   google_plus      :
   keybase          :
   instagram        : "https://www.instagram.com/_vishwas__gautam_/"
@@ -177,7 +177,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  Blog:
+  posts:
     output: true
     permalink: /:collection/:path/
 
@@ -188,7 +188,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: blog
+      type: posts
     values:
       layout: single
       author_profile: true
