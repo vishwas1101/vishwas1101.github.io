@@ -3,7 +3,7 @@ title: "Hardware Accelerators for NLP applications"
 collection: publications
 permalink: /publications/AxONAL
 excerpt: Developed Hardware Accelerators for Transformer Encoders and BERT models to perform various Natural Language Processing tasks with focus on resource constrained devices.
-date: 
+date: June 2022 - Dec 2022
 venue:
 ---
 

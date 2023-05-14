@@ -3,7 +3,7 @@ title: "RISC-V Processor"
 collection: publications
 permalink: /publications/processor
 excerpt: Designed and developed a RISC-V processor in Verilog as a part of my course project in computer architecture course
-date: 
+date: July 2021 - Aug 2021
 venue:
 ---
 

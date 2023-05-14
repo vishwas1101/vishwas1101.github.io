@@ -3,7 +3,7 @@ title: "Kalman Filter Applications in Microgrids"
 collection: publications
 permalink: /publications/KF
 excerpt: Worked on Kalman Filter techniques for stability issues and state estimation of voltages to avoid voltage regulation issues in multiple Distributed Energy Resources.
-date: 
+date: Dec 2020 - Dec 2021
 venue:
 ---
 
