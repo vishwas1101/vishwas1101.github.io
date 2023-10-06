@@ -62,7 +62,7 @@ Alright, let's talk about what's in it for you when you follow my blog. Here's a
 
 + *"Use Feeling, Use Feeling" (Uncle Roger Approved)*: Yep, I'm an Uncle Roger fan too! But what does it mean to "use feeling" while cooking? It's about trusting your instincts, experimenting fearlessly, and adjusting flavors on the fly. I'll show you how to cook with heart and soul, just like Uncle Roger himself.
 https://giphy.com/clips/mrnigelng-cooking-show-uncle-roger-5HDCKts1Re8NxcwTSq
-![*Just use feeling*]()
+![*Just use feeling*](https://github.com/vishwas1101/vishwas1101.github.io/blob/master/images/uncleRoger.jpg)
 
 ## What's in it for me? 
 
