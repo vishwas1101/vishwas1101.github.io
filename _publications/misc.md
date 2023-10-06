@@ -1,5 +1,5 @@
 ---
-title: "Miscellenous stuff"
+title: "Miscellaneous stuff"
 collection: publications
 permalink: /publications/misc
 excerpt: Other random projects that I did during my undergrad. 
