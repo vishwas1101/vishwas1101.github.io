@@ -27,7 +27,7 @@ Why in the world should you bother cooking? Well, here's the scoop: when I start
 These are just a few thoughts off the top of my head, but there's more where that came from. If you've got your own cooking epiphanies, I'd love to hear 'em! Leave a comment and share the changes you've experienced since you started cooking. Let's chat!
 
 <p align="center">
-<img src="/images/pineapple_dishes.jpg" width="50%"/>  
+<img src="/images/pineapple_dishes.jpg" width="50%"/> <br> 
 <em>Pineapple day! Made Pineapple Gojju and Pineapple chat on the same day</em> 
 </p> 
 
@@ -53,7 +53,7 @@ It's About Intuition, Not Recipes: Forget complicated recipes with precise measu
 + *Cheap, Effortless, and Homely Recipes*: While I'm all about teaching the art of cooking, I'll do it through straightforward recipes.
 
 <p align="center">
-<img src="/images/palak_mushroom.jpg" width="50%"/>  
+<img src="/images/palak_mushroom.jpg" width="50%"/> <br>  
 <em>Halfway through an incredible chinese-style spinach & mushroom dish :)</em>
 </p>  
 
