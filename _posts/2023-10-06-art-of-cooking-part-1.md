@@ -69,7 +69,7 @@ Alright, let's talk about what's in it for you when you follow my blog. Here's a
 
 + *Creativity Unleashed*: Cooking is more than just following instructions; it's an art form. You'll unlock your inner food artist and learn to express yourself through your dishes. Get ready to impress yourself and your friends.
 
-+ *"Use Feeling, Use Feeling" (Uncle Roger Approved)*: Yep, I'm an Uncle Roger fan too! But what does it mean to "use feeling" while cooking? It's about trusting your instincts, experimenting fearlessly, and adjusting flavors on the fly. I'll show you how to cook with heart and soul, just like Uncle Roger himself.
++ *"Use Feeling, Use Feeling" (Uncle Roger Approved)*: Yep, I'm an Uncle Roger fan too! But what does it mean to "use feeling" while cooking? It's about trusting your instincts, experimenting fearlessly, and adjusting flavors on the fly. I'll show you how to cook with heart and soul. Maybe that statement was too dramatic haha!
 
 <p align="center">
 <img src="/images/uncleRoger.jpg"/> <br> 
