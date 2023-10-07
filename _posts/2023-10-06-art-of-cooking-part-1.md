@@ -1,5 +1,5 @@
 ---
-title: 'The Subtle Art of Cooking: Introduction'
+title: 'The Subtle Art of Cooking: An Introduction'
 date: 2023-10-06
 permalink: /posts/2023/10/art-of-cooking-part-1/
 tags:
@@ -28,10 +28,10 @@ These are just a few thoughts off the top of my head, but there's more where tha
 
 <p align="center">
 <img src="/images/pineapple_dishes.jpg" width="50%"/> <br> 
-<em>Pineapple day! Made Pineapple Gojju and Pineapple chat on the same day</em> 
+<em>Pineapple day! Made Pineapple Gojju and Pineapple chat</em> 
 </p> 
 
-## Why you should follow me?
+## Why should you follow me?
  
 I'm no culinary whiz, and I'm certainly not here to dazzle you with fancy dishes. I'm just your average bachelor who happens to enjoy cooking, and I'm on a mission to share that passion with you.
 
