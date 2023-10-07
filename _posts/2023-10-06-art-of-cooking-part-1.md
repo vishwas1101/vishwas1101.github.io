@@ -28,7 +28,7 @@ These are just a few thoughts off the top of my head, but there's more where tha
 
 <p align="center">
 <img src="/images/pineapple_dishes.jpg" width="50%"/> <br> 
-<em>Pineapple day! Made Pineapple Gojju and Pineapple chat</em> 
+<em>Pineapple day! Made pineapple gojju and pineapple chat</em> 
 </p> 
 
 ## Why should you follow me?
@@ -49,7 +49,7 @@ So, why should you follow me?
 
 + *I Get the Bachelor Struggles*: I've been there, and I know what it's like to navigate the kitchen as a bachelor. No fancy dishes here, just nutritious, homely, and easy-to-cook meals.
 It's About Intuition, Not Recipes: Forget complicated recipes with precise measurements. I'm here to teach you the art of cooking by intuition. 
-+ *Off-the-Shelf Cooking*: We won't be reinventing the wheel here. We'll use off-the-shelf components to make your life easier. For example, making biryani? We'll skip the tedious process of making biryani masala from scratch and opt for a store-bought blend. We'll then tweak it to perfection.
++ *Off-the-Shelf Cooking*: We won't be reinventing the wheel here. We'll use off-the-shelf components to make our life easier. For example, making biryani? We'll skip the tedious process of making biryani masala from scratch and opt for a store-bought blend. We'll then tweak it to perfection.
 + *Cheap, Effortless, and Homely Recipes*: While I'm all about teaching the art of cooking, I'll do it through straightforward recipes.
 
 <p align="center">
