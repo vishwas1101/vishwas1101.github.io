@@ -7,7 +7,7 @@ tags:
   - Cooking
 ---
 
-You know what they say, **'Cooking Like a King on a Bachelor's Budget'**—you probably haven't heard that one before because I just came up with it! But trust me, it's not as crazy as it sounds. In this series of articles and *vegetarian/vegan* recipes, I'm here to spill the beans on how you can whip up low-effort delicious, nutritious meals without emptying your pockets. So, let's dive in and uncover the secrets of eating like a king on a budget!
+Ever heard of the phrase, **'Cooking Like a King on a Bachelor's Budget'**?—you probably haven't because I just made it up! But trust me, it's not as crazy as it sounds. In this series of articles and *vegetarian/vegan* recipes, I'm here to spill the beans on how you can whip up low-effort delicious, nutritious meals without emptying your pockets. Say goodbye to the hassle of eating out and embrace the joy of home cooking that won't break the bank. So, let's dive in and uncover the secrets of eating like a king on a budget!
 
 ## Introduction
 
@@ -26,8 +26,8 @@ Why in the world should you bother cooking? Well, here's the scoop: when I start
 
 These are just a few thoughts off the top of my head, but there's more where that came from. If you've got your own cooking epiphanies, I'd love to hear 'em! Leave a comment and share the changes you've experienced since you started cooking. Let's chat!
 
-<p align="center" width="50%">
-<img src="/images/pineapple_dishes.jpg"/>  
+<p align="center">
+<img src="/images/pineapple_dishes.jpg" width="50%"/>  
 <em>Pineapple day! Made Pineapple Gojju and Pineapple chat on the same day</em> 
 </p> 
 
@@ -52,8 +52,8 @@ It's About Intuition, Not Recipes: Forget complicated recipes with precise measu
 + *Off-the-Shelf Cooking*: We won't be reinventing the wheel here. We'll use off-the-shelf components to make your life easier. For example, making biryani? We'll skip the tedious process of making biryani masala from scratch and opt for a store-bought blend. We'll then tweak it to perfection.
 + *Cheap, Effortless, and Homely Recipes*: While I'm all about teaching the art of cooking, I'll do it through straightforward recipes.
 
-<p align="center" width="50%">
-<img src="/images/palak_mushroom.jpg" />  
+<p align="center">
+<img src="/images/palak_mushroom.jpg" width="50%"/>  
 <em>Halfway through an incredible chinese-style spinach & mushroom dish :)</em>
 </p>  
 
@@ -72,7 +72,7 @@ Alright, let's talk about what's in it for you when you follow my blog. Here's a
 + *"Use Feeling, Use Feeling" (Uncle Roger Approved)*: Yep, I'm an Uncle Roger fan too! But what does it mean to "use feeling" while cooking? It's about trusting your instincts, experimenting fearlessly, and adjusting flavors on the fly. I'll show you how to cook with heart and soul, just like Uncle Roger himself.
 
 <p align="center">
-<img src="/images/uncleRoger.jpg"/>  
+<img src="/images/uncleRoger.jpg"/> <br> 
 <em>Uncle Roger when you perfectly use "feeling"</em>
 </p>  
 
