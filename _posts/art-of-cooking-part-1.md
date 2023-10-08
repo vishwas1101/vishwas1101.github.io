@@ -11,7 +11,7 @@ Ever heard of the phrase, **'Cooking Like a King on a Bachelor's Budget'**?—yo
 
 ## Introduction
 
-Alright, folks, let's talk about something we've all faced at one point or another – the dreaded task of cooking for ourselves, especially if you're a bachelor or part of a couple with a crazy busy life. Now, don't get me wrong; I get it. The kitchen can seem like a daunting place. But hang on a sec, because I've got some great news for you. It doesn't have to be that way! In the paragraphs ahead, I'm going to spill the beans on how you can whip up homely, easy, and wallet-friendly meals without breaking a sweat. And guess what? These meals will not only satisfy your taste buds but also set you on the path to a healthier lifestyle. If your daily routine includes ordering take-out or dining out, it's time for a change. Just put in a smidge of effort into cooking your meals a few times a week, and trust me, you'll start noticing some positive changes in no time. Stick with me to find out just how simple and satisfying this journey can be.
+Alright, folks, let's talk about something we've all faced at one point or another – the dreaded task of cooking for ourselves, especially if you're a bachelor or part of a couple with a crazy busy life. Now, don't get me wrong; I get it. The kitchen can seem like a daunting place. But hang on a sec, because I've got some great news for you. It doesn't have to be that way! In this series of articles, I'm going to spill the beans on how you can whip up homely, easy, and wallet-friendly meals without breaking a sweat. And guess what? These meals will not only satisfy your taste buds but also set you on the path to a healthier lifestyle. If your daily routine includes ordering take-out or dining out (or hiring a cook), it's time for a change. Just put in a smidge of effort into cooking your meals a few times a week, and trust me, you'll start noticing some positive changes in no time. Stick with me to find out just how simple and satisfying this journey can be.
 
 
 ## Why should you cook? 
@@ -69,11 +69,10 @@ Alright, let's talk about what's in it for you when you follow my blog. Here's a
 
 + *Creativity Unleashed*: Cooking is more than just following instructions; it's an art form. You'll unlock your inner food artist and learn to express yourself through your dishes. Get ready to impress yourself and your friends.
 
-+ *"Use Feeling, Use Feeling" (Uncle Roger Approved)*: Yep, I'm an Uncle Roger fan too! But what does it mean to "use feeling" while cooking? It's about trusting your instincts, experimenting fearlessly, and adjusting flavors on the fly. I'll show you how to cook with heart and soul. Maybe that statement was too dramatic haha!
++ *"Use Feeling, Use Feeling" (Uncle Roger Approved)*: Yep, I'm an Uncle Roger fan too! But what does it mean to "use feeling" while cooking? It's about trusting your instincts, experimenting fearlessly, and adjusting flavors on the fly. I'll show you how to cook with heart and soul. Maybe that statement (or the entire post) was too dramatic haha!
 
 <p align="center">
-<img src="/images/uncleRoger.jpg"/> <br> 
-<em>Uncle Roger when you perfectly use "feeling"</em>
+<img src="/images/uncleRoger.jpg"/> 
 </p>  
 
 ## What's in it for me? 
@@ -81,3 +80,10 @@ Alright, let's talk about what's in it for you when you follow my blog. Here's a
 I have the opportunity to learn, explore, and grow through this journey. And, of course, I genuinely hope that at least one person finds this content valuable and helpful.
 Yes, I shamelessly used ChatGPT to correct my mistakes and improve content quality. Nevertheless, every idea remains entirely my own. Hopefully, I can effortlessly craft engaging content that captivates your interest as this series unfolds ;) 
 
+
+
+<!-- Make it more personalized - write about your hypothetical clean freak and health freak gf, broke as shit
+You're telling it like your selling and marketing some course - my own stories and personal flavour 
+and make it relatable and sound like methodological and logical
+It's need to be humorous and it natural.
+It's not science journal that needs whys and hows, it needs a stories and recipes that will help Then you can include all these venn diagrams, and all the sciency stuff -->
